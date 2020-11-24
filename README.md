@@ -1,7 +1,7 @@
 # color_isolation.py
 Python program used to easily color isolate a specific part of a picture.
 
-<img src="color_isolation.png" alt="color_isolation_png" style="width: 320px;"/>
+<img src="color_isolation.png" alt="color_isolation.png" style="width: 320px;"/>
 
 ## Table of contents
 * [1. Description](#1-description)
