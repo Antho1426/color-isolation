@@ -1,7 +1,9 @@
 # color_isolation.py
 Python program used to easily color isolate a specific part of a picture.
 
-<img src="color_isolation.png" alt="color_isolation.png" style="width: 320px;"/>
+<p align="center">
+	<img src="color_isolation.png" alt="color_isolation.png" style="width: 320px;"/>
+</p>
 
 ## Table of contents
 * [1. Description](#1-description)
@@ -29,7 +31,9 @@ object of interest is created
 a grayscaled version of the input picture and the original colored object is
 added at this precise location
 
-<img src="color_isolation.gif" alt="color_isolation_gif" style="width: 640px;"/>
+<p align="center">
+	<img src="color_isolation.gif" alt="color_isolation_gif" style="width: 640px;"/>
+</p>
 
 ## 2. Getting started
 
